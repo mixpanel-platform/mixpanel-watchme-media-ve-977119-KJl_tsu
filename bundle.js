@@ -765,9 +765,9 @@
 
 	Controls = __webpack_require__(18);
 
-	projectKey = '56c995a8fa5320df5a8436253391e412';
+	projectKey = 'c89a51c766b544a51476aa9312072bfd';
 
-	projectSecret = '66a8548300e97c30214b4ebdacc3925b';
+	projectSecret = '63a3c15e67099ddee1aeb57f8b198644';
 
 	MP.api.setCredentials(projectKey, projectSecret);
 
