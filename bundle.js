@@ -761,15 +761,9 @@
 /* 17 */
 /***/ function(module, exports, __webpack_require__) {
 
-	var Controls, projectKey, projectSecret;
+	var Controls;
 
 	Controls = __webpack_require__(18);
-
-	projectKey = 'c89a51c766b544a51476aa9312072bfd';
-
-	projectSecret = '63a3c15e67099ddee1aeb57f8b198644';
-
-	MP.api.setCredentials(projectKey, projectSecret);
 
 	Controls.initReport();
 
